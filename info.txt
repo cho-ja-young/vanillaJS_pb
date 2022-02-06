@@ -1,3 +1,5 @@
+참고페이지 : https://developer.mozilla.org/ko/docs/Web/HTML/Element/canvas
+
 clientX : 화면 상에서의 마우스 좌표
 
 offsetX : canvas 안에서의 마우스 좌표 
@@ -5,3 +7,19 @@ offsetX : canvas 안에서의 마우스 좌표
 mousedown : 클릭했을 때 발생하는 이벤트 
 
 MDN : 
+
+console.log() 를 통해 잘 되는지 콘솔창에서 확인!
+
+---------------------------------------------------
+
+*전체 삭제 버튼, 공 모드, 랜덤 색상 버튼을 추가
+
+: https://vangona.github.io/js-painting-canvas/
+
+-> 누군가의 깃허브
+-> 그림판 개선시 참고해보자!
+
+
+*직접 구현한 페이지 바로 들어갈수 있게끔 링크공유하는 방법
+
+: https://youtu.be/MN1g0490WAg
