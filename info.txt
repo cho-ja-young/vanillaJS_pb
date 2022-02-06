@@ -1,0 +1,7 @@
+clientX : 화면 상에서의 마우스 좌표
+
+offsetX : canvas 안에서의 마우스 좌표 
+
+mousedown : 클릭했을 때 발생하는 이벤트 
+
+MDN : 
